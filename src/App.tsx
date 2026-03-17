@@ -1,3 +1,6 @@
+import { BrandCarousel } from "./components/BrandCarousel";
+import { ComparisonGallery } from "./components/ComparisonGallery";
+import { FAQSection } from "./components/FAQSection";
 import { useState, useEffect, useRef } from 'react';
 import { 
   Phone, 
